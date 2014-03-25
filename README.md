@@ -1,12 +1,23 @@
 OpenSun-C
 =========
 
-<img src="http://i.imgur.com/1krvIy4.png"/>      
- Collection of iOS Utilities
- OpenSource iOS Utilities 
-
+<pre>
+  ___                   ____                     ____ 
+ / _ \ _ __   ___ _ __ / ___| _   _ _ __        / ___|
+| | | | '_ \ / _ \ '_ \\___ \| | | | '_ \ _____| |    
+| |_| | |_) |  __/ | | |___) | |_| | | | |_____| |___ 
+ \___/| .__/ \___|_| |_|____/ \__,_|_| |_|      \____|
+      |_|                                             
+</pre>
+<pre>
+ ______________________________
+/ Collection of iOS Utilities  \
+\ OpenSource iOS Utilities     /
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+</pre>     
+           
