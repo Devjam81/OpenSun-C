@@ -4,7 +4,7 @@ openiapp:
 	@gcc openiapp.c -o openiapp -limobiledevice -lplist
 
 OpeniSend_rec:	
-	@gcc OpeniSend_rec.c -o OpeniSend_rec -lusb-1.0
+	@gcc OpeniSend_rec.c -o OpeniSend_rec -lusb-1.0 -framework IOKit
 
 GetUdid:	
 	@gcc -o GetUdid -framework CoreFoundation -framework MobileDevice -F/System/Library/PrivateFrameworks GetUdid.c
